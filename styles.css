@@ -25,8 +25,8 @@
   }
   
   .nav-label [data-v-4433a4e4] {
-  font-size: 24px !important;
-  line-height: 24px !important;
+  font-size: 24px;
+  line-height: 24px;
   }
   
   .mt-8 {
@@ -39,7 +39,6 @@
   height: 60px;
   }
   
-  .agreement-builder .material-symbols-outlined {
-  font-size: 50px !important;
+  .agreement-builder .material-symbols-outlined, .v-icon.v-icon {
+  font-size: 40px !important;
   }
-  
