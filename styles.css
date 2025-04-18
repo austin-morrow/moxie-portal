@@ -1,10 +1,45 @@
-#left-nav {
+.left-nav-expanded {
   width: 250px;
   min-width: 200px;
   max-width: 400px;
-}
-
-.nav-label[data-v-4433a4e4] {
-  font-size: 24px;
-  line-height: 24px;
-}
+  }
+  
+  .tabs-component .module-title,.tabs-component .tab-item {
+  font-size: 24px !important;
+  font-weight: 700 !important;
+  }
+  
+  #app-area {
+  --v-left-nav-width: 250px !important;
+  }
+  
+  .mt-2 .pr-2 img {
+  max-width: 200px !important;
+  max-height: none !important;
+  width: 200px !important;
+  margin-top: 55px;
+  }
+  
+  .v-application .mb-2 {
+  margin-bottom: 50px !important;
+  }
+  
+  .nav-label [data-v-4433a4e4] {
+  font-size: 24px !important;
+  line-height: 24px !important;
+  }
+  
+  .mt-8 {
+  font-size: 20px;
+  line-height: 20px;
+  }
+  
+  .v-data-table>.v-data-table__wrapper>table>tbody>tr>td, .v-data-table>.v-data-table__wrapper>table>tfoot>tr>td, .v-data-table>.v-data-table__wrapper>table>thead>tr>td,.v-data-table>.v-data-table__wrapper>table>tbody>tr>th, .v-data-table>.v-data-table__wrapper>table>tfoot>tr>th, .v-data-table>.v-data-table__wrapper>table>thead>tr>th {
+  font-size: 1.5rem;
+  height: 60px;
+  }
+  
+  .agreement-builder .material-symbols-outlined {
+  font-size: 50px !important;
+  }
+  
